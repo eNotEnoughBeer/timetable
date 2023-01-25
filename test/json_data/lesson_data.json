@@ -1,0 +1,9 @@
+{
+  "uid": "test uid",
+  "name":"test name",
+  "description":"test description",
+  "google_key":"test key",
+  "icon_index":1,
+  "teacher_name":"test teacher name",
+  "teacher_avatar":"test avatar url"
+}

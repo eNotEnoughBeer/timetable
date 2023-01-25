@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146918436429",
+    "project_id": "timetable-gonini",
+    "storage_bucket": "timetable-gonini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146918436429:android:2807918c88148a94d63604",
+        "android_client_info": {
+          "package_name": "com.gonini.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146918436429-1d67hg8q46tvi6or6dvf9l3v5h2khnvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVQjfzHqSusqPyLotsti5LdnXNur3IsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146918436429-1d67hg8q46tvi6or6dvf9l3v5h2khnvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
